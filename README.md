@@ -14,3 +14,6 @@ Create a project:
 $ ng new ng-study
 $ cd ng-study
 $ ng serve
+
+
+Section 2 Lecture 19
